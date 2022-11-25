@@ -1,0 +1,12 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ZuusAI/website.git",
+  "author": "Kevin <k_upton@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "moment": "^2.29.4"
+  }
+}
